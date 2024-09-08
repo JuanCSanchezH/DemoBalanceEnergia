@@ -17,3 +17,21 @@ Tambien se averigua la diferencia del plan vs lo real, y se puede obtener el val
 - Identificación de operación: Compra o Venta.
 ## Transferencias o Cargas
 - Carga por web a Bucket o Carpeta en la nube del regulador
+
+## Stack de tecnologías
+
+**Python (Pandas)**
+- Simplicidad
+- Familiaridad
+- Rendimiento para pequeños volumenes
+- Bajo costo (open source)
+
+**Colab**
+
+- Implementa procesos automáticos de respaldo, mediante scripts que sincronicen con Google Drive, además de que permite la mitigación de errores mediante la implementación de notebooks (paso a paso)
+Entorno de desarrollo serverless eficiente, entendible y fácil de manipular
+- Completa integración con python
+
+**Escalabilidad**
+
+Integración con Dask: computación y procesamiento de datos distribuída (paralización) para medianos volumenes de datos.
