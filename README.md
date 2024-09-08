@@ -29,7 +29,7 @@ Tambien se averigua la diferencia del plan vs lo real, y se puede obtener el val
 **Colab**
 
 - Implementa procesos automáticos de respaldo, mediante scripts que sincronicen con Google Drive, además de que permite la mitigación de errores mediante la implementación de notebooks (paso a paso)
-Entorno de desarrollo serverless eficiente, entendible y fácil de manipular
+- Entorno de desarrollo serverless eficiente, entendible y fácil de manipular
 - Completa integración con python
 
 **Escalabilidad**
