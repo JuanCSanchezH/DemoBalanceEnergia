@@ -1,6 +1,6 @@
 # Demo del Pipeline de Cálculo Automático de Balances de Energía EONTEC
 
-En este proceso la ETL se encargará de extraer la información de las fuentes mencionadas arriba, de forma remota, posteriormente, la transformará a un formato manejable, la cruzará y filtrará, y finalmente la depositará o la disponibilizará para descarga en un destino para que los analistas o el regulador la usen.
+En este proceso la ETL se encargará de extraer la información de dos fuentes (Google Drive y desde una API) de forma remota, posteriormente, la transformará a un formato manejable, la cruzará y filtrará, y finalmente la depositará o la disponibilizará para descarga en un destino para que los analistas o el regulador la usen.
 Tambien se averigua la diferencia del plan vs lo real, y se puede obtener el valor de la energía generada real, vs la remanente que hace falta, y que hay que cubrir con contratos de energía.
 
 "Si me sobra vendo la Energía, si me falta, la tengo que comprar"
